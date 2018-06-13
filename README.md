@@ -4,5 +4,5 @@ Aplicacion de visualizion de peliculas en Reactjs
 ```
 npm install   // Instalacion de las dependencias
 npm run build:dev // Levanta y genera la aplicacion para modo de desarrollo
-npm run build:dev // Genera la aplicacion para ser llevada a produccion
+npm run build:prod // Genera la aplicacion para ser llevada a produccion
 ```
