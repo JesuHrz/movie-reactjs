@@ -1,7 +1,7 @@
 {
   "name": "pruebatecnica",
   "version": "1.0.0",
-  "description": "Prueba Técnica - Koombea",
+  "description": "App Movies Reactjs",
   "main": "index.js",
   "scripts": {
     "build:dev": "webpack-dev-server --env.NODE_ENV=local",
